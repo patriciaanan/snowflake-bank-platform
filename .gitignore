@@ -8,3 +8,4 @@ __pycache__/
 
 # Environment secrets
 .env
+.DS_Store
