@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,dob,address,city,state,postcode,risk_segment,created_at
+17cd6760-6d97-4ed3-844a-b10c4658327a,Ashley,Hodge,ashley.hodge26@gmail.com,0407 671 851,1954-02-11,Flat 71 4 Williams Track,Kellyburgh,QLD,2607,low,2019-03-02T16:55:14
+c1d72bb4-02ad-461d-978d-d255c0cb8498,Nichole,Thompson,nichole.thompson755@gmail.com,0480550313,1948-08-20,798/16 Alex Rosebowl,South Jasminestad,SA,2670,high,2024-04-11T18:57:10
+5482ad0f-0d2c-4de6-a4d0-8331406a6ab2,Ashlee,Hardin,ashlee.hardin433@yahoo.com,0459760596,1965-07-24,05 Matthew Fairway,Lake Andrew,NT,2961,low,2016-08-05T04:50:51
+7c79b67b-41ea-4796-a290-50de2d37dd08,Jessica,Garcia,jessica.garcia518@hotmail.com,0458 175 109,2000-01-30,9 Darryl Anchorage,Julieview,TAS,2646,low,2024-07-19T10:55:48
+3cb37314-4855-46b3-a658-b9a988d2131b,Maurice,Jennings,maurice.jennings666@yahoo.com.au,0421 554 601,1984-11-15,238 Nicole Avenue,Millershire,SA,2523,low,2022-02-19T19:19:48

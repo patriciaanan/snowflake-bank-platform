@@ -1,0 +1,10 @@
+# Generated data - too large for git, regenerate locally instead
+data/*.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env

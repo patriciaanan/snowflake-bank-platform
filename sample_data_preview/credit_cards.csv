@@ -1,0 +1,6 @@
+card_id,account_id,card_number_masked,card_type,credit_limit,expiry,issued_date
+c26bf6af-1b86-4c0e-8640-7ec2a51a541d,2dfca363-b384-42d2-9804-f34a87c1ee5b,**** **** **** 7765,visa_debit,2000,03/28,2018-11-17
+d6c07348-ce64-4601-8dec-81d58fb2ac34,76757f51-2e61-4b46-88c8-d26de951dcf0,**** **** **** 7420,visa_credit,10000,07/29,2018-08-06
+3b19fa4e-5cd7-4f28-956b-05499b794741,db1943f6-f93f-4fee-93f1-5bc8cd475d6c,**** **** **** 5910,mastercard_credit,15000,05/29,2020-11-06
+be0418a2-3d19-45f9-a793-0e0de3af3dca,d25d4df0-1cda-44c4-917e-81c7b8b36737,**** **** **** 6338,visa_debit,5000,09/27,2022-12-13
+457325e8-84b4-4ded-9dbd-ac21c052df98,409dc5ad-f0c4-4c52-b7f7-45944d628fa6,**** **** **** 1202,mastercard_credit,2000,09/28,2020-10-28

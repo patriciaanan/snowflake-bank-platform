@@ -1,0 +1,6 @@
+loan_id,customer_id,loan_type,principal,interest_rate,term_months,status,start_date
+aeaf8fe0-a06b-4070-a54b-63117b049c12,c8e4975f-180d-4b43-beaf-fa3ee48171b8,auto_loan,16584.94,7.38,12,paid_off,2023-03-22
+4a65f8bf-9b29-4d2f-b2b6-0fa689e77d3e,01366433-502b-4ce3-98c9-53e5a2b595a2,personal_loan,12437.42,10.23,360,paid_off,2021-12-22
+c0317ee9-fe6e-4cf8-9e7b-6c9cd1304dce,8fb32419-13a8-44d2-970c-6cc19f240d3f,personal_loan,16814.13,11.79,60,paid_off,2018-08-12
+4d2bc97f-7180-48c9-891f-4ee0eeb7257c,86cd3742-a9c7-4203-b206-9f28008444dd,auto_loan,7536.24,4.57,120,active,2017-01-20
+c43a6fc7-3393-42cb-9984-90bf280c0842,aec99d7a-9cdd-4002-9327-2ed4f7100f14,business_loan,18838.17,7.57,240,paid_off,2025-03-24

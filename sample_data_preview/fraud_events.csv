@@ -1,0 +1,6 @@
+fraud_id,txn_id,fraud_type,detected_at,status,amount_disputed
+d334c954-729e-44c7-a926-657dfd0747e0,801b31fe-6a48-4baf-9763-3d1ebdbd04bb,card_not_present,2025-11-01T12:39:11,investigating,426.77
+81a0d058-3b35-4475-a9f1-2e4298ed5ab3,7778ccbf-40fd-4ef5-b32f-5b299ec23248,card_not_present,2025-12-23T17:18:00,investigating,111.13
+abefe83c-bd0c-4667-bca8-ea1b27f99c36,cc92bc22-df49-495a-aae8-c2f5b0f39863,card_not_present,2023-09-16T18:11:28,confirmed,1129.68
+b5b55329-2d9b-4329-b1d3-adb00c8fcc07,490a26e9-1679-411b-8ffe-874b0caae952,synthetic_identity,2023-12-01T09:45:11,false_positive,1899.27
+ef72e912-19cd-43c9-bb43-7c39039accd1,b89e2017-70b0-41b2-ae8b-61c83bf0d4c0,synthetic_identity,2025-06-11T20:33:20,investigating,25.46
